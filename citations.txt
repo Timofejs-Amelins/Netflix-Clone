@@ -1,0 +1,43 @@
+The Movie Database (TMDB). (n.d.). TV. [online] Available at: https://developer.themoviedb.org/reference/discover-tv [Accessed 13 Dec. 2023].
+Gruembaum, B., Bergi, Flater and Chamberlain, M. (2018). Why is `.catch(err => console.error(err))` discouraged? [online] Stack Overflow. Available at: https://stackoverflow.com/questions/50896442/why-is-catcherr-console-errorerr-discouraged [Accessed 13 Dec. 2023].
+gpvista (2016). The Movie Database. [online] Themoviedb.org. Available at: https://www.themoviedb.org/talk/57bdffe992514172e2002377?language=en-GB [Accessed 13 Dec. 2023].
+developer.mozilla.org. (2023). TypeError: ‘x’ is not iterable - JavaScript | MDN. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/is_not_iterable [Accessed 13 Dec. 2023].
+w3schools (2023). JavaScript For Of. [online] www.w3schools.com. Available at: https://www.w3schools.com/js/js_loop_forof.asp [Accessed 13 Dec. 2023].
+TiVo Platform Technologies LLC ed., (n.d.). Movie. [online] The Movie Database (TMDB). Available at: https://developer.themoviedb.org/reference/discover-movie [Accessed 13 Dec. 2023].
+B Coder (2022). 🔥Building a Netflix Clone with Bootstrap, HTML, and CSS : Step-by-Step Guide. [online] www.youtube.com. Available at: https://www.youtube.com/watch?v=H9uAuKqqUkI [Accessed 13 Dec. 2023].
+contributors, M.O., Jacob Thornton, and Bootstrap (n.d.). Navbar. [online] getbootstrap.com. Available at: https://getbootstrap.com/docs/5.3/components/navbar/ [Accessed 13 Dec. 2023].
+contributors, M.O., Jacob Thornton, and Bootstrap (n.d.). Background. [online] getbootstrap.com. Available at: https://getbootstrap.com/docs/5.3/utilities/background/ [Accessed 13 Dec. 2023].
+Page, L. and Brin, S. (1998). container-fluid - Google Search. [online] www.google.com. Available at: https://www.google.com/search?client=avast-a-1&q=container-fluid&ie=UTF-8 [Accessed 13 Dec. 2023].
+Page, L. and Brin, S. (1998b). navbar-brand - Google Search. [online] www.google.com. Available at: https://www.google.com/search?client=avast-a-1&q=navbar-brand&ie=UTF-8 [Accessed 13 Dec. 2023].
+Page, L. and Brin, S. (1998c). navbar-toggler - Google Search. [online] www.google.com. Available at: https://www.google.com/search?client=avast-a-1&q=navbar-toggler&ie=UTF-8 [Accessed 13 Dec. 2023].
+GeeksforGeeks (2023). Bootstrap 5 Navbar Responsive behaviors Toggler. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/bootstrap-5-navbar-responsive-behaviors-toggler/ [Accessed 13 Dec. 2023].
+GeeksforGeeks. (2023). Bootstrap 5 Navbar Responsive behaviors Toggler. [online] Available at: https://www.geeksforgeeks.org/bootstrap-5-navbar-responsive-behaviors-toggler/.
+www.w3schools.com. (n.d.). Bootstrap Collapse. [online] Available at: https://www.w3schools.com/bootstrap/bootstrap_collapse.asp.
+europa.eu. (n.d.). Webtools - Showcase | aria | 01_introduction | attributes. [online] Available at: https://europa.eu/webtools/showcase/demo?comp=aria&section=01_introduction&demo=attributes&lang=en#:~:text=The%20aria%2Dcontrols%20attribute%20creates [Accessed 15 Dec. 2023].
+www.boia.org. (n.d.). What Does ‘Aria-Expanded’ Mean? [online] Available at: https://www.boia.org/blog/what-does-aria-expanded-mean [Accessed 15 Dec. 2023].
+Stack Overflow. (n.d.). What is aria-label and how should I use it? [online] Available at: https://stackoverflow.com/questions/22039910/what-is-aria-label-and-how-should-i-use-it [Accessed 15 Dec. 2023].
+Digital Point. (n.d.). bootstrap navbar not showing on mobile devices. [online] Available at: https://forums.digitalpoint.com/threads/bootstrap-navbar-not-showing-on-mobile-devices.2819314/ [Accessed 15 Dec. 2023].
+www.tutorialrepublic.com. (n.d.). Bootstrap Navbar with Dropdown. [online] Available at: https://www.tutorialrepublic.com/codelab.php?topic=bootstrap&file=navbar-with-dropdown [Accessed 15 Dec. 2023].
+contributors, M.O., Jacob Thornton, and Bootstrap (n.d.). Navbar. [online] getbootstrap.com. Available at: https://getbootstrap.com/docs/5.3/components/navbar/.
+GeeksforGeeks. (2019). CSS margin-right Property. [online] Available at: https://www.geeksforgeeks.org/css-margin-right-property/ [Accessed 15 Dec. 2023].
+www.w3schools.com. (n.d.). W3Schools CSS margin-right demonstration. [online] Available at: https://www.w3schools.com/cssref/playdemo.php?filename=playcss_margin-right&preval=auto [Accessed 15 Dec. 2023].
+www.w3schools.com. (n.d.). W3Schools online HTML editor. [online] Available at: https://www.w3schools.com/cssref/tryit.php?filename=trycss_play_margin-right [Accessed 15 Dec. 2023].
+www.w3schools.com. (n.d.). Bootstrap 5 Utilities. [online] Available at: https://www.w3schools.com/bootstrap5/bootstrap_utilities.php [Accessed 15 Dec. 2023].
+Search by Oneicon from <a href="https://thenounproject.com/browse/icons/term/search/" target="_blank" title="Search Icons">Noun Project</a> (CC BY 3.0)
+
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+
+‌
+
+
+‌
+‌
+‌
+‌
+‌
